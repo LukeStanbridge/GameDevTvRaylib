@@ -1,0 +1,3 @@
+﻿  AxeGame.cpp
+C:\Users\USER\Documents\My Docs\GameDevTV Raylib C++ Course\AxeGame\AxeGame.cpp(70,42): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  AxeGame.vcxproj -> C:\Users\USER\Documents\My Docs\GameDevTV Raylib C++ Course\x64\Debug\AxeGame.exe

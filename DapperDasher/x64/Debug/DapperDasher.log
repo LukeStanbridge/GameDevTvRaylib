@@ -1,0 +1,4 @@
+﻿  DapperDasher.cpp
+C:\Users\USER\Desktop\GameDevTV Raylib C++ Course\DapperDasher\DapperDasher.cpp(15,36): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\USER\Desktop\GameDevTV Raylib C++ Course\DapperDasher\DapperDasher.cpp(16,30): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  DapperDasher.vcxproj -> C:\Users\USER\Desktop\GameDevTV Raylib C++ Course\x64\Debug\DapperDasher.exe
