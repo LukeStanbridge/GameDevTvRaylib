@@ -1,4 +1,5 @@
 ﻿  DapperDasher.cpp
-C:\Users\USER\Desktop\GameDevTV Raylib C++ Course\DapperDasher\DapperDasher.cpp(15,36): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
-C:\Users\USER\Desktop\GameDevTV Raylib C++ Course\DapperDasher\DapperDasher.cpp(16,30): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
-  DapperDasher.vcxproj -> C:\Users\USER\Desktop\GameDevTV Raylib C++ Course\x64\Debug\DapperDasher.exe
+C:\Users\USER\Documents\GitHub\GameDevTvRaylib\DapperDasher\DapperDasher.cpp(15,36): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\USER\Documents\GitHub\GameDevTvRaylib\DapperDasher\DapperDasher.cpp(16,30): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  DapperDasher.vcxproj -> C:\Users\USER\Documents\GitHub\GameDevTvRaylib\x64\Debug\DapperDasher.exe
